@@ -38,7 +38,7 @@ social:
 
 banner:
   enable: true
-  title: 茶话屋
+  title: 初時雨真正的心灵小窝
   border: true
   cloud:
     enable: true
@@ -53,7 +53,78 @@ notice:
 
 bg_image:
   enable: true
-  url: https://i0.hdslb.com/bfs/new_dyn/85c63b31148dbb17e9eccffa14cd04a7520580199.jpg
+  url: https://pic.imgdb.cn/item/654f9d88c458853aefea7969.jpg
   # dark:
-  # blur: 30px # 设置背景模糊程度
+  blur: 8px # 设置背景模糊程度
+  opacity: 0.8
+
+# _config.yun.yml
+medium_zoom: true
+
+cursor:
+  enable: true
+  default: https://cdn.yunyoujun.cn/css/md-cursors/pointer.cur
+  pointer: https://cdn.yunyoujun.cn/css/md-cursors/link.cur
+  text: https://cdn.yunyoujun.cn/css/md-cursors/text.cur
+
+avatar:
+  enable: true
+  url: https://pic.imgdb.cn/item/654f9fa3c458853aeff46bf3.jpg
+  rounded: true
   opacity: 1
+  mickey_mouse: false
+  status:
+    enable: true
+    emoji: 😙
+    message: 欢迎你，祝愿你幸福地走过每一天
+
+menu:
+  home:
+    path: /
+    icon: ri:home-4-line
+  list:
+    - type: archives
+      path: /archives/
+      icon: ri:archive-line
+    - type: categories
+      path: /categories/
+      icon: ri:folder-2-line
+    - type: tags
+      path: /tags/
+      icon: ri:price-tag-3-line
+    # - path: https://www.yunyoujun.cn
+    #   icon: ri:cloud-line
+    #   count: 你猜
+  custom:
+    title: 文档
+    path: https://yun.yunyoujun.cn
+    icon: ri:settings-line
+
+pages:
+  - name: 回到主站
+    url: https://hatsushigure.github.io
+    icon: ic:baseline-exit-to-app
+    color: "#f2415c"
+
+post_meta:
+  item_text: false
+  created_at: true
+  updated_at: true
+  categories: true
+  tags: true
+
+codeblock:
+  copy_btn: true
+
+reward:
+  enable: false
+
+footer:
+  since: 2023
+  icon:
+    name: ri:cloud-line
+    animated: true
+    color: '#0078E7'
+
+wordcloud:
+  enable: true

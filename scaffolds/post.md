@@ -1,5 +1,10 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+author: 初時雨
+email: Hatsushigure_c@163.com
+readmore: true
+hideTime: false
+description: 
+sticky: 
 ---
