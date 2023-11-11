@@ -80,11 +80,11 @@ avatar:
 
 menu:
   home:
-    path: /
+    path: .
     icon: ri:home-4-line
   list:
     - type: archives
-      path: /something-personal/archives/
+      path: ./archives/
       icon: ri:archive-line
     - type: categories
       path: /something-personal/categories/
