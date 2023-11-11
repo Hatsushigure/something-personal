@@ -84,13 +84,13 @@ menu:
     icon: ri:home-4-line
   list:
     - type: archives
-      path: /archives/
+      path: /something-personal/archives/
       icon: ri:archive-line
     - type: categories
-      path: /categories/
+      path: /something-personal/categories/
       icon: ri:folder-2-line
     - type: tags
-      path: /tags/
+      path: /something-personal/tags/
       icon: ri:price-tag-3-line
     # - path: https://www.yunyoujun.cn
     #   icon: ri:cloud-line
