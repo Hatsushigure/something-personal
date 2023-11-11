@@ -1,0 +1,59 @@
+colors:
+  primary: '#f0a8e4'
+  # bg: "#F5F5F5"
+  selection_bg: '#8e71c1' # 选取文字时的背景色
+  # 标签云中标签的起始色和结束色
+  # tag_start_color:
+  # tag_end_color:
+
+social:
+  - name: GitHub
+    link: https://github.com/Hatsushigure
+    icon: ri:github-line
+    color: '#181717'
+  - name: E-Mail
+    link: mailto:Hatsushigure_c@163.com
+    icon: ri:mail-line
+    color: '#8E71C1'
+  - name: 知乎
+    link: https://www.zhihu.com/people/yunyoujun/
+    icon: ri:zhihu-line
+    color: '#0084FF'
+  - name: 哔哩哔哩动画
+    link: https://space.bilibili.com/1579790
+    icon: ri:bilibili-line
+    color: '#FF8EB3'
+  - name: 微信公众号
+    link: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/about/white-qrcode-and-search.jpg
+    icon: ri:wechat-2-line
+    color: '#1AAD19'
+  - name: Twitter
+    link: https://twitter.com/YunYouJun
+    icon: ri:twitter-line
+    color: '#1da1f2'
+  - name: Telegram
+    link: https://t.me/Hatsushigure
+    icon: ri:telegram-line
+    color: '#0088CC'
+
+banner:
+  enable: true
+  title: 茶话屋
+  border: true
+  cloud:
+    enable: true
+    color: #66b1f2
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
+notice:
+  enable: true
+  content: 这是我的私人博客，可能含有大量 emo 内容，谨慎阅读。
+
+bg_image:
+  enable: true
+  url: https://i0.hdslb.com/bfs/new_dyn/85c63b31148dbb17e9eccffa14cd04a7520580199.jpg
+  # dark:
+  # blur: 30px # 设置背景模糊程度
+  opacity: 1
