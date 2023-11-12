@@ -7,4 +7,5 @@ readmore: true
 hideTime: false
 description: 
 sticky: 
+comments: false
 ---
