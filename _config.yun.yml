@@ -15,20 +15,8 @@ social:
     link: mailto:Hatsushigure_c@163.com
     icon: ri:mail-line
     color: '#8E71C1'
-  - name: 知乎
-    link: https://www.zhihu.com/people/yunyoujun/
-    icon: ri:zhihu-line
-    color: '#0084FF'
-  - name: 哔哩哔哩动画
-    link: https://space.bilibili.com/1579790
-    icon: ri:bilibili-line
-    color: '#FF8EB3'
-  - name: 微信公众号
-    link: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/about/white-qrcode-and-search.jpg
-    icon: ri:wechat-2-line
-    color: '#1AAD19'
   - name: Twitter
-    link: https://twitter.com/YunYouJun
+    link: https://twitter.com/Hatsushigure_c
     icon: ri:twitter-line
     color: '#1da1f2'
   - name: Telegram
@@ -128,3 +116,8 @@ footer:
 
 wordcloud:
   enable: true
+
+wordcount:
+  enable: true
+  count: true
+  time: true
