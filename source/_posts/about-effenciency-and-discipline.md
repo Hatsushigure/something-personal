@@ -1,5 +1,5 @@
 ---
-title: about-effenciency-and-discipline
+title: 关于效率与自律
 author: 初時雨
 email: Hatsushigure_c@163.com
 readmore: true
