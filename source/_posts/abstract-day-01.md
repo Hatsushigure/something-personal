@@ -1,5 +1,5 @@
 ---
-title: abstract-day-01
+title: 又是抽象的一天呢
 author: 初時雨
 email: Hatsushigure_c@163.com
 readmore: true
