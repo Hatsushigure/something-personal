@@ -8,7 +8,7 @@ comments: false
 date: 2023-11-13 23:17:17
 description:
 sticky:
-tags: ["坏运气", "智商税"]
+tags: ["坏运气", "智商税","抽象"]
 categories: "日记（大概）"
 ---
 

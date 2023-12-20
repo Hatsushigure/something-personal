@@ -5,7 +5,7 @@ email: Hatsushigure_c@163.com
 readmore: true
 hideTime: false
 comments: false
-tags: ["坏运气", "吐槽", "难绷"]
+tags: ["坏运气", "吐槽", "难绷","抽象"]
 date: 2023-12-02 23:59:59
 description: 腾讯你妈死了
 sticky:
