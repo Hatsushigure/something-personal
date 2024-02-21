@@ -24,7 +24,7 @@ categories: 日记（大概）
 
 ## <font color=#5bcefa>M</font><font color=#f6a8b8>t</font>F 的觉醒
 
-首先是性别之争，这个也困扰了我一整个寒假了。这件事说来话长，这里只描述一下最近的事吧，其他的会另外贴文章链接上来的。
+首先是性别之争，这个也困扰了我一整个寒假了。这件事说来话长，这里只描述一下最近的事吧，其他的会另外贴文章链接[<sup>1</sup>](#ref1)[<sup>2</sup>](#ref2)上来的。
 
 从寒假起，我接触外网的频率显著上升，可能是因为寒假更闲了。推特中文圈除了搞黄基本也就只有键政和药娘了，我此前已经关注了不少政治相关内容了，现在也调转方向关注药娘了。
 
@@ -74,4 +74,10 @@ categories: 日记（大概）
 
 ---
 
-想不出结尾怎么写了，就先这样吧，链接稍后贴上来，以上。
+想不出结尾怎么写了，就先这样吧，以上。
+
+---
+
+<span id="ref1">[1]</span> <https://blog.hatsushigure.shop/something-personal/2023/conflick-of-myself/#我的性别究竟是？>
+
+<span id="ref2">[2]</span> <https://blog.hatsushigure.shop/something-personal/about/#迷茫>
