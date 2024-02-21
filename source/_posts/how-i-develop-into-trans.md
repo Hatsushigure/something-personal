@@ -58,6 +58,8 @@ categories: 一点思考
 
 当天晚上，我穿了这套制服很久，不顾天气寒冷，坚持拍了好几张照片，甚至直接传到了 QQ 空间里，脸还没有打码。或许当时的我也是迫切地想要得到别人的认可吧。
 
+![图图](http://a1.qpic.cn/psc?/V11QmLaa2WelZy/05RlWl8gsTOH*Z17MtCBzCyc18oNydxKD7MAcQfsxKmHXU1jXJC5m0nIn21MvzwkhIb.aof3VYitLyREQW.zTQ!!/b&ek=1&kp=1&pt=0&bo=OASgBTgEoAUWADA!&tl=1&vuin=2762783461&tm=1708538400&dis_t=1708541710&dis_k=91d7eafa1bff9b0f92d24bc65e33d939&sce=50-1-1&rf=viewer_311)_图图_
+
 ### 女装返校
 
 高考结束了，我履行了先前的诺言，把女装塞在包里来到了学校，在厕所换好了衣服。实话实说，这次我确实见证了包容。除了发毕业证的老登，其他人要么认为我是在整活，要么表示了理解 (还有提醒我防走光的)。事后，我就这么穿着女装一路坐公交来到了和我关系很好的同学家里，这也算是我第一次女装出门了。公交上我也没有遭到什么非议，实话说，真的令人安心呢。
