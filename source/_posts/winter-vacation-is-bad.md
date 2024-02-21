@@ -5,11 +5,11 @@ email: Hatsushigure_c@163.com
 readmore: true
 hideTime: false
 comments: false
-tags: []
+tags: [emo, 性别, 老保, 家庭矛盾]
 date: 2024-02-21 22:48:00
 description:
 sticky:
-categories:
+categories: 日记（大概）
 ---
 
 ## 写在前面
