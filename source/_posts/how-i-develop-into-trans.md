@@ -58,7 +58,7 @@ categories: 一点思考
 
 当天晚上，我穿了这套制服很久，不顾天气寒冷，坚持拍了好几张照片，甚至直接传到了 QQ 空间里，脸还没有打码。或许当时的我也是迫切地想要得到别人的认可吧。
 
-![图图](http://a1.qpic.cn/psc?/V11QmLaa2WelZy/05RlWl8gsTOH*Z17MtCBzCyc18oNydxKD7MAcQfsxKmHXU1jXJC5m0nIn21MvzwkhIb.aof3VYitLyREQW.zTQ!!/b&ek=1&kp=1&pt=0&bo=OASgBTgEoAUWADA!&tl=1&vuin=2762783461&tm=1708538400&dis_t=1708541710&dis_k=91d7eafa1bff9b0f92d24bc65e33d939&sce=50-1-1&rf=viewer_311)_图图_
+![图图](https://pic.imgdb.cn/item/65d6481b9f345e8d0322ac22.jpg)_图图_
 
 ### 女装返校
 
