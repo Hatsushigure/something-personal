@@ -5,11 +5,11 @@ email: Hatsushigure_c@163.com
 readmore: true
 hideTime: false
 comments: false
-tags: []
+tags: [性别, HRT, 人生, 自我剖析, emo]
 date: 2024-03-06 10:29:16
 description: 对不起，我真的破防了……
 sticky:
-categories:
+categories: 日记（大概）
 ---
 
 ## 开端
