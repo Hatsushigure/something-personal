@@ -1,4 +1,16 @@
-# 初時雨的北京旅行日记
+---
+title: 初時雨的北京旅行日记
+author: 初時雨
+email: Hatsushigure_c@163.com
+readmore: true
+hideTime: false
+comments: false
+tags: [性别,旅行]
+date: 2024-03-01 23:45:13
+description: 01
+sticky:
+categories: 日记（大概）
+---
 
 01 2024-7-4 晴
 
